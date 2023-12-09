@@ -17,5 +17,5 @@ This repository contains the code for time series forecasting of chickenpox case
 - `hungary_county_edges.csv`: Dataset containing information about county boundaries.
 - `hungary_chickenpox.csv`: Temporal dataset with chickenpox cases for each county over time.
 - `hungary.jpg`: Image file displaying the map of Hungary.
-- `time-series`: Jupyter Notebook consisting of the code with the above mentioned functions.
+- `time-series.ipynb`: Jupyter Notebook consisting of the code with the above mentioned functions.
 - `README.md`: This ReadMe file.
